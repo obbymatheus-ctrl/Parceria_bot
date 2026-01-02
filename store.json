@@ -1,0 +1,36 @@
+{
+  "categories": {
+    "Jogos de 40 reais /Game for 7 dollars": [
+      {
+        "name": "Red Dead Redemption 2",
+        "price": "R$ 20",
+        "stock": "93",
+        "desc": "✅ Conta STEAM!\n✅ Comprou, Jogou!\n✅Entrega 100% Automática!\n☁️Conta Offline"
+      },
+      {
+        "name": "GTA 5",
+        "price": "15,00",
+        "desc": "Sem descrição"
+      }
+    ],
+    "null": [
+      {
+        "name": null,
+        "price": null,
+        "desc": ""
+      },
+      {
+        "name": null,
+        "price": null,
+        "desc": "Sem descrição"
+      }
+    ],
+    "Jogos de 40 reais/ Game for 7 dollars": [
+      {
+        "name": "Red Dead Redemption 2",
+        "price": "15,00",
+        "desc": ""
+      }
+    ]
+  }
+}
